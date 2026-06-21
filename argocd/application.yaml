@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_USER/orders-service-deploy.git
+    repoURL: https://github.com/leog125/orders-service-deploy.git
     targetRevision: main
     path: charts/orders-service
     helm:
