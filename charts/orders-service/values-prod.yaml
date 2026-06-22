@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  tag: "d6d2e8cb132d100bf754179ae166ff0f3c38af72"
+  tag: "8b7b9199322d992705a9935d861c45617786e15a"
 
 resources:
   requests:
